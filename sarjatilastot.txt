@@ -1,0 +1,3 @@
+sarja;osallistujamaara;paras_pistemaara;pisteiden_ka;lajeja_ka
+isot;4;22.0;15.8;3.0
+pienet;4;13.0;5.0;1.5

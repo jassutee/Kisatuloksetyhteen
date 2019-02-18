@@ -1,0 +1,9 @@
+tunnus;nimi;sarja;aasin_hannan_kiinnitys;musiikkituolit;kyna_pulloon;kokonaispisteet;lajeja
+A;Aleksi;isot;4.0;7.0;1.0;12.0;3/3
+E;Ella;pienet;4.0;-;-;4.0;1/3
+J;Jessica;isot;8.0;8.0;6.0;22.0;3/3
+M;Matias;isot;3.0;6.0;2.0;11.0;3/3
+N;Nico;isot;7.0;10.0;1.0;18.0;3/3
+O;Olivia;pienet;2.0;-;-;2.0;1/3
+S;Sofia;pienet;1.0;-;-;1.0;1/3
+V;Valtteri;pienet;2.0;9.0;2.0;13.0;3/3

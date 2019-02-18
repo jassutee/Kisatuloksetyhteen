@@ -1,0 +1,3 @@
+aasin_hannan_kiinnitys.txt
+musiikkituolit.txt
+kyna_pulloon.txt

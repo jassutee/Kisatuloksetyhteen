@@ -1,0 +1,8 @@
+A;Aleksi;isot
+E;Ella;pienet
+J;Jessica;isot
+N;Nico;isot
+O;Olivia;pienet
+S;Sofia;pienet
+V;Valtteri;pienet
+M;Matias;isot
